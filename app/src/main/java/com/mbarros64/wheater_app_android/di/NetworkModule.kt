@@ -1,4 +1,4 @@
-package com.mbarros64.wheater_app_android.data.di
+package com.mbarros64.wheater_app_android.di
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
