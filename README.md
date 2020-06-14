@@ -22,4 +22,4 @@ Esse projeto consiste em um desafio que me foi dado para desenvolver uma aplica�
 
 ## Funcionamento
 
-![Aplicação](forecast.gif)
+![gif](forecast1.gif)
