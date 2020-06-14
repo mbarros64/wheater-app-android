@@ -36,6 +36,6 @@ class App : Application() {
     companion object {
         private const val DB_NAME = "openweatherforecast.realm"
         private const val DB_VERSION = 0L
-        private const val DB_CLEAR_INTERVAL_HOURS = 12L
+        private const val DB_CLEAR_INTERVAL_HOURS = 3L
     }
 }
