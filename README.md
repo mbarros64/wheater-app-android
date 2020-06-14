@@ -4,7 +4,7 @@
 
 Esse projeto consiste em um desafio que me foi dado para desenvolver uma aplicação android em Kotlin utilizando alguma API de clima.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 [Realm](https://github.com/realm/realm-java)
 
@@ -22,4 +22,4 @@ Esse projeto consiste em um desafio que me foi dado para desenvolver uma aplica�
 
 ## Funcionamento
 
-![Aplicação](forecast.gif)
+![gif](forecast1.gif)
